@@ -1,3 +1,5 @@
+![M icon 1024x1024](https://github.com/WerronPL/VanillaMinecraftModpack/assets/109135465/90e374f2-7ab3-4d74-9a51-aa4ce9f7d989)
+
 # VanillaMinecraftModpack
 Modpack made for playing vanilla mc with some improvements in graphics and gameplay. Pre-configured
 
