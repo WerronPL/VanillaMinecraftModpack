@@ -1,12 +1,12 @@
 # VanillaMinecraftModpack
 Modpack made for playing vanilla mc with some improvements in graphics and gameplay. Pre-configured
 
-==============================================================================================
+============================================================================================
 
 Modpack has only mods changing gameplay a bit, and graphics, like texturepacks and shaders,
 Therefore you can play worlds created on this modpack at completely vanilla mc client.
 
-==============================================================================================
+============================================================================================
 
 Instalation:
 
@@ -18,7 +18,7 @@ Instalation:
   Here you have a link to Prism Launcher:
   https://prismlauncher.org
   
------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
   
   Instructions:
   
